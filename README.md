@@ -21,10 +21,15 @@ Perks gained by developing this project-
 
 1) Got to know about the Text-to-Speech functionality and its uses in Python
 2) Learnt how to automate processes using Python
-3) Got to learn about Web Scrapping in Python
+3) Got to learn about Web Scraping in Python
 4) Learnt the use of various modules
 
 
 Problems faced / existing currently-
 
 1) 'Send Email' function still has issues due to Login issues and API problems
+
+
+References- 
+1) https://www.geeksforgeeks.org/build-a-virtual-assistant-using-python/
+2) https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
