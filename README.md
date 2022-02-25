@@ -6,6 +6,7 @@ Motivators for my project are currently used voice assisstants like 'Google Voic
 
 
 Salient features / functionalities provided by the project-
+
 1) Searching on Web
 2) Accessing / Playing Youtube videos
 3) Weather Report
@@ -17,6 +18,7 @@ Salient features / functionalities provided by the project-
 
 
 Perks gained by developing this project-
+
 1) Got to know about the Text-to-Speech functionality and its uses in Python
 2) Learnt how to automate processes using Python
 3) Got to learn about Web Scrapping in Python
@@ -24,4 +26,5 @@ Perks gained by developing this project-
 
 
 Problems faced / existing currently-
+
 1) 'Send Email' function still has issues due to Login issues and API problems
