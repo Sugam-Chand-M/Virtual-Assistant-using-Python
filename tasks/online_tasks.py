@@ -13,8 +13,8 @@ import pyjokes
 
 
 #-----------Define the API Keys-------------
-NEWS_API_KEY="e4173478eeaa4cb79a141ce050f6d658"  #To fetch the latest news headlines, we'll be using NewsAPI. Signup for a free account on NewsAPI and get the API Key.
-OPENWEATHER_APP_ID="a294cdef05c2e9cf2c5a7164ca4a4851"  #To get the weather report, we're using the OpenWeatherMap API. Signup for a free account and get the APP ID.
+NEWS_API_KEY="NEWS_API_ID"  #To fetch the latest news headlines, we'll be using NewsAPI. Signup for a free account on NewsAPI and get the API Key.
+OPENWEATHER_APP_ID="OPENWEATHER_APP_ID"  #To get the weather report, we're using the OpenWeatherMap API. Signup for a free account and get the APP ID.
 '''TMDB_API_KEY=config("TMDB_API_KEY")
 EMAIL=config('EMAIL')
 PASSWORD=config('PASSWORD')'''
