@@ -1,11 +1,11 @@
 # Virtual Assisstant using Python
 
-#Overview-
+Overview-
 
 Motivators for my project are currently used voice assisstants like 'Google Voice Assisstant', 'Siri', 'Cortana' and so on. But these applications mostly works with Internet applications. But my project/system has the capability to work with Internet connections. It's named as "VIRTUAL ASSISSTANT USING PYTHON" which takes user input in the form of voice or text and returns the output in various forms like action to be performed or the search result is dictated or printed to the end user.
 
 
-#Salient features / functionalities provided by the project-
+Salient features / functionalities provided by the project-
 
 1) Searching on Web
 2) Accessing / Playing Youtube videos
@@ -17,7 +17,7 @@ Motivators for my project are currently used voice assisstants like 'Google Voic
 8) News Report
 
 
-#Perks gained by developing this project-
+Perks gained by developing this project-
 
 1) Got to know about the Text-to-Speech functionality and its uses in Python
 2) Learnt how to automate processes using Python
@@ -25,11 +25,11 @@ Motivators for my project are currently used voice assisstants like 'Google Voic
 4) Learnt the use of various modules
 
 
-#Problems faced / existing currently-
+Problems faced / existing currently-
 
 1) 'Send Email' function still has issues due to Login issues and API problems
 
 
-#References- 
+References- 
 1) https://www.geeksforgeeks.org/build-a-virtual-assistant-using-python/
 2) https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
