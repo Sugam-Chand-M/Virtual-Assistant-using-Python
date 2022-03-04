@@ -36,4 +36,6 @@ References-
 
 Demo Video-
 
-[![Virtual Assisstant using Python](https://img.youtube.com/vi/nV5Eack2GN0&t=107s/ThumbnailVAUP.png)](https://www.youtube.com/watch?v=nV5Eack2GN0&t=107s)
+By clicking on the picture below you will be redirected to the demo yotube video
+
+[![Virtual Assisstant using Python](https://img.youtube.com/vi/nV5Eack2GN0/0.jpg)](https://www.youtube.com/watch?v=nV5Eack2GN0)
