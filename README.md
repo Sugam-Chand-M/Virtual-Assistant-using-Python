@@ -1,4 +1,4 @@
-# Virtual Assisstant using Python
+# Virtual Assistant using Python
 
 Overview-
 
@@ -38,4 +38,4 @@ Demo Video-
 
 By clicking on the picture below you will be redirected to the demo youtube video
 
-[![Virtual Assisstant using Python](https://img.youtube.com/vi/nV5Eack2GN0/0.jpg)](https://www.youtube.com/watch?v=nV5Eack2GN0)
+[![Virtual Assistant using Python](https://img.youtube.com/vi/nV5Eack2GN0/0.jpg)](https://www.youtube.com/watch?v=nV5Eack2GN0)
