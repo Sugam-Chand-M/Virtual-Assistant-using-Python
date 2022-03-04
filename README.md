@@ -36,4 +36,4 @@ References-
 
 Demo Video-
 
-[![Virtual Assisstant using Python](https://img.youtube.com/vi/nV5Eack2GN0&t=107s/0.jpg)](https://www.youtube.com/watch?v=nV5Eack2GN0&t=107s)
+[![Virtual Assisstant using Python](https://img.youtube.com/vi/nV5Eack2GN0&t=107s/ThumbnailVAUP.png)](https://www.youtube.com/watch?v=nV5Eack2GN0&t=107s)
