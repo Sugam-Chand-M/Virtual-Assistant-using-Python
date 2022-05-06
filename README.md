@@ -2,7 +2,7 @@
 
 Overview-
 
-Motivators for my project are currently used voice assisstants like 'Google Voice Assistant', 'Siri', 'Cortana' and so on. But these applications mostly works with Internet applications. But my project/system has the capability to work with Internet connections. It's named as "VIRTUAL ASSISTANT USING PYTHON" which takes user input in the form of voice or text and returns the output in various forms like action to be performed or the search result is dictated or printed to the end user.
+Motivators for my project are currently used voice assisstants like 'Google Voice Assistant', 'Siri', 'Cortana' and so on. But these applications mostly works with Internet applications. But my project/system has the capability to work with or without Internet connections. It's named as "VIRTUAL ASSISTANT USING PYTHON" which takes user input in the form of voice or text and returns the output in various forms like action to be performed or the search result is dictated or printed to the end user.
 
 
 Salient features / functionalities provided by the project-
